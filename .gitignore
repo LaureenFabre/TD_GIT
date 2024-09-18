@@ -17,6 +17,7 @@
 *.opensdf
 *.sln.docstates
 *.vcxproj.user
+*.vcxproj
 *.filters
 *.vs/
 *.sln
